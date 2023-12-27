@@ -1,13 +1,13 @@
 # this will show up on the tab for the site
-meta-title: "PT-DLC5"
+meta-title: "Blatwax"
 # this shows up below the title in a google search result
-meta-description: This is an example of the description
+meta-description: Music | Sample Packs | Sound Design
 # whether to show the title on the front page
 show-title: true
 # this shows up on the main page
-title: "\uE001PT-DLC5-6"
+title: "blatwax"
 # this is a convenient shortcut to hide the intro text which can be changed in user-intro-text.md
-show-intro-text: false
+show-intro-text: true
 # whether to show the background image or not
 show-background: false
 # optional. will fill the screen. place the image in the user-images folder and add the name of it here
@@ -21,10 +21,10 @@ images-above-intro-text: true
 images:
 
 - alt: Logo
-  url: pt-handwritten-black.png
+  url: 72DPI-noartboard_white.png
 
 - alt: Bio photo
-  url: pt-bio-photo.png
+  url: 72DPI_noartboard_white.png
 
 # in case you want to hide the links for some reason
 show-links: true
@@ -35,19 +35,16 @@ vertical-links: false
 links:
 
 - title: Spotify
-  url: https://open.spotify.com/artist/6TFOalvhHRXh8JmQTVSoyY?si=by2Uv4_pRSGLL92wMk5K3g
+  url: https://open.spotify.com/artist/4E1FpnJcM9ecspPFJ80UUP
   new-tab: true
 
-- title: Twitter
-  url: http://twitter.com/pedestriantac
+- title: Bandcamp
+  url: https://blatwax.bandcamp.com/
   new-tab: true
   
-- title: Instagram
-  url: http://instagram.com/pedestriantactics
+- title: SoundCloud
+  url: https://soundcloud.com/blatwax
   new-tab: true
-  
-- title: Email
-  url: mailto:hi@pedestriantactics.com
 
-- title: Custom page
+- title: Private Lessons
   url: user-custom-page

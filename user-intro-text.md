@@ -1,1 +1,1 @@
-A new wonderful project by [Pedestrian Tactics](http://pedestriantactics.com)
+I make music and sample packs in Ableton Live.

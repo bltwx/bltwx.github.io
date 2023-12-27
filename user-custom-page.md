@@ -1,14 +1,14 @@
 ---
-title: Custom page
+title: Private Lessons
 ---
 
 <!-- This is a comment. It won't be shown in the final page -->
 
 <!-- This is how you include images. -->
-![Image](user-images/pt-bio-photo.png)
+![Image](user-images/72DPI_noartboard_white.png)
 
-This is an example of a custom page. This could be used for a bio or any other kind of content. It's written in markdown which is stupid easy. There's a great guide on markdown 
+Hello, Blatwax here. Private Lessons delivered over Discord will be available in 2024. For now, please check out my production tutorials on YouTube, by clicking 
 <!-- This is how you include a link -->
-[here](https://itopaloglu83.github.io/Jekyll-Markdown-Cheat-Sheet/).
+[here](https://www.youtube.com/@everythinghertz).
 
-Much love - [PT](http://pedestriantactics.com)
+Much love - blingus.

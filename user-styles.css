@@ -12,9 +12,9 @@
 
 :root {
     /* color of the whole page */
-    --color-background: #ffff00;
+    --color-background: #000000;
     /* color of text elements */
-    --color-foreground: black;
+    --color-foreground: white;
 }
 
 /* these are settings for all text */
