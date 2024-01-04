@@ -1,5 +1,5 @@
 # this will show up on the tab for the site
-meta-title: "Blatwax"
+meta-title: Blatwax
 # this shows up below the title in a google search result
 meta-description: Music | Sample Packs | Sound Design
 # whether to show the title on the front page
@@ -34,16 +34,20 @@ vertical-links: false
 # adding the parameter new-tab and setting it to true will open the link in a new browser tab
 links:
 
-- title: Spotify
-  url: https://open.spotify.com/artist/4E1FpnJcM9ecspPFJ80UUP
+- title: SoundCloud
+  url: https://soundcloud.com/blatwax
   new-tab: true
 
 - title: Bandcamp
   url: https://blatwax.bandcamp.com/
   new-tab: true
   
-- title: SoundCloud
-  url: https://soundcloud.com/blatwax
+- title: YouTube
+  url: https://www.youtube.com/@everythinghertz
+  new-tab: true
+
+- title: Spotify
+  url: https://open.spotify.com/artist/4E1FpnJcM9ecspPFJ80UUP
   new-tab: true
 
 - title: Private Lessons
