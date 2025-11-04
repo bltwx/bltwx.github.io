@@ -7,8 +7,7 @@ title: Private Lessons
 <!-- This is how you include images. -->
 ![Image](user-images/72DPI_noartboard_white.png)
 
-Hello, Blatwax here. Private Lessons delivered over Discord will be rolled out properly in 2025. More info soon. For now, your finger click 
+Private Lessons are on hold while I finish some music. More info soon. For now, your finger click 
 <!-- This is how you include a link -->
 [SoundCloud](https://soundcloud.com/blatwax).
 
-In the meantime, feel free to reach out via DM on socials if you have questions.
